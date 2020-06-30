@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning backend related technologies!
 - 📫 How to reach me: zhan7230@umn.edu
-- 🧑‍💻 [Personal Blog](https://jonathanzhang98.github.io/)
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/llewyn-zixuan-zhang-215395190/)
+- 🧑‍💻 [Blog](https://jonathanzhang98.github.io/) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/llewyn-zixuan-zhang-215395190/)
