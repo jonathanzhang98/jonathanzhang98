@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at SPS Commerce as a software engineer intern.
+- 🔭 I’m an incoming software engineer at Bloomberg.
 - 🌱 Web applications and DevOps interest me the most!
 - 📫 How to reach me: zhan7230@umn.edu
 - 🧑‍💻 [Blog](https://jonathanzhang98.github.io/) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/llewyn-zixuan-zhang-215395190/)
